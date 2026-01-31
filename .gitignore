@@ -1,0 +1,13 @@
+# User requested specific exclusions
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-digital-garden/data.json
+.obsidian/cache/
+node_modules/
+.DS_Store
+
+# Preserved system and agent exclusions
+.trash/
+Thumbs.db
+.gemini/
+.geminiignore
