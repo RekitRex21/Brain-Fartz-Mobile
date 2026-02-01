@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: true
+---
 # Welcome to the Fartz-Zone 🧠💨
 
 Today is [[2026-01-25]]. 

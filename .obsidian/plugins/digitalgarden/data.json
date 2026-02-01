@@ -1,0 +1,63 @@
+{
+  "githubRepo": "Brain-Fartz-Mobile",
+  "githubToken": "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",
+  "githubUserName": "RekitRex21",
+  "gardenBaseUrl": "https://brain-fartz-mobile.vercel.app",
+  "prHistory": [
+    "https://github.com/RekitRex21/Brain-Fartz-Mobile/pull/1"
+  ],
+  "baseTheme": "dark",
+  "theme": "{\"name\":\"Red Graphite\",\"author\":\"SeanWcom\",\"repo\":\"seanwcom/Red-Graphite-for-Obsidian\",\"screenshot\":\"thumbnail.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/seanwcom/Red-Graphite-for-Obsidian/HEAD/theme.css\"}",
+  "faviconPath": "",
+  "logoPath": "",
+  "useFullResolutionImages": false,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Digital Garden",
+  "mainLanguage": "en",
+  "slugifyEnabled": true,
+  "noteIconKey": "dg-note-icon",
+  "defaultNoteIcon": "",
+  "showNoteIconOnTitle": false,
+  "showNoteIconInFileTree": false,
+  "showNoteIconOnInternalLink": false,
+  "showNoteIconOnBackLink": false,
+  "showCreatedTimestamp": false,
+  "createdTimestampKey": "",
+  "showUpdatedTimestamp": false,
+  "updatedTimestampKey": "",
+  "timestampFormat": "MMM dd, yyyy h:mm a",
+  "styleSettingsCss": "",
+  "styleSettingsBodyClasses": "",
+  "pathRewriteRules": "",
+  "customFilters": [],
+  "publishPlatform": "SelfHosted",
+  "contentClassesKey": "dg-content-classes",
+  "forestrySettings": {
+    "forestryPageName": "",
+    "apiKey": "",
+    "baseUrl": ""
+  },
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": false,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": false,
+    "dgShowTags": true
+  },
+  "uiStrings": {
+    "backlinkHeader": "",
+    "noBacklinksMessage": "",
+    "searchButtonText": "",
+    "searchPlaceholder": "",
+    "searchEnterHint": "",
+    "searchNavigateHint": "",
+    "searchCloseHint": "",
+    "searchNoResults": "",
+    "searchPreviewPlaceholder": ""
+  }
+}

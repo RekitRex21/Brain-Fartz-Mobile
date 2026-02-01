@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/ai-workspace-hero-guide/"}
 ---
+
 # 🚀 Mobile AI Workspace: Zero to Hero Guide
 **Project:** Brain Fartz Mobile | **Last Updated:** 2026-01-25
 
