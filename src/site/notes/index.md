@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 dg-home: true
+permalink: /
 ---
 
 # Welcome to the Fartz-Zone 🧠💨
