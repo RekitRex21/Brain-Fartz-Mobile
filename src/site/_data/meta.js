@@ -20,7 +20,7 @@ module.exports = async (data) => {
   }
   let bodyClasses = [];
   let noteIconsSettings = {
-    filetree: false,
+    filetree: true,
     links: false,
     title: false,
     default: process.env.NOTE_ICON_DEFAULT,
@@ -71,6 +71,9 @@ module.exports = async (data) => {
     backlinkHeader: process.env.UI_BACKLINK_HEADER || "Pages mentioning this page",
     noBacklinksMessage: process.env.UI_NO_BACKLINKS_MESSAGE || "No other pages mentions this page",
     searchButtonText: process.env.UI_SEARCH_BUTTON_TEXT || "Search",
+    showTree: true,
+    showSearch: true,
+    showGraph: true,
     searchPlaceholder: process.env.UI_SEARCH_PLACEHOLDER || "Start typing...",
     searchEnterHint: process.env.UI_SEARCH_ENTER_HINT || "Enter to select",
     searchNavigateHint: process.env.UI_SEARCH_NAVIGATE_HINT || "to navigate",
