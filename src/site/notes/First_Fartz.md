@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fartz/"}
+{"dg-publish":true,"permalink":"/first-fartz/","tags":["gardenEntry"]}
 ---
 
 # Welcome to the Fartz-Zone 🧠💨
