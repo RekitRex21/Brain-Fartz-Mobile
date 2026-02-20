@@ -1,74 +1,66 @@
 # VS Code Extensions for AI Workflow
 
+## Install All at Once
+Copy and paste this into your terminal:
+
+```
+# AI & Ollama
+code --install-extension continue.continue
+code --install-extension jmikhail.ollama
+
+# OpenClaw & Node.js
+code --install-extension ms-vscode.powershell
+code --install-extension dbaeumer.vscode-eslint
+
+# Markdown & Obsidian
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension DavidAnson.vscode-markdownlint
+
+# Productivity
+code --install-extension eamodio.gitlens
+code --install-extension redhat.vscode-yaml
+```
+
 ## Quick Install
-```bash
+```
 code --install-extension <extension-id>
 ```
 
-## 1. AI & Ollama Integration
+## 1. AI & Ollama
 
 | Extension | ID | Purpose |
 |-----------|-----|---------|
 | Continue | continue.continue | Connect to local Ollama models |
-| Roo Code | roovygity.roo-code | Agentic coding (Claude/Cline alternative) |
 | Ollama | jmikhail.ollama | Ollama Modelfile syntax highlighting |
 
-## 2. Markdown & Obsidian
+## 2. OpenClaw & Node.js
+
+| Extension | ID | Purpose |
+|-----------|-----|---------|
+| PowerShell | ms-vscode.powershell | For OpenClaw CLI commands |
+| ESLint | dbaeumer.vscode-eslint | JavaScript/TypeScript linting |
+
+## 3. Markdown & Obsidian
 
 | Extension | ID | Purpose |
 |-----------|-----|---------|
 | Markdown All in One | yzhang.markdown-all-in-one | TOC, shortcuts, tables |
-| Markdown Preview Enhanced | shd101wyy.markdown-preview-enhanced | Math, Mermaid diagrams |
 | Markdownlint | DavidAnson.vscode-markdownlint | Lint and fix issues |
-| Obsidian | zc.design-obsidian-viewer | View Obsidian vault in VS Code |
-
-## 3. Python & Go
-
-| Extension | ID | Purpose |
-|-----------|-----|---------|
-| Python | ms-python.python | Official Python support |
-| Pylance | ms-python.vscode-pylance | Fast IntelliSense |
-| Go | golang.go | Official Go extension |
-| Ruff | charliermarsh.ruff | Fast linter + formatter |
 
 ## 4. Productivity & Config
 
 | Extension | ID | Purpose |
 |-----------|-----|---------|
-| Error Lens | usernamehw.errorlens | Inline error highlighting |
-| YAML | redhat.vscode-yaml | YAML validation |
 | GitLens | eamodio.gitlens | Git blame, history |
+| YAML | redhat.vscode-yaml | YAML validation |
 
-## Install All at Once
+## Our Current Models (Base)
 
-Copy this into terminal:
-```bash
-# AI
-code --install-extension continue.continue
-code --install-extension roovygity.roo-code
-code --install-extension jmikhail.ollama
+- **Ollama**: llama3.2, qwen2.5, mistral
+- **OpenClaw**: MiniMax-M2.5 (default)
 
-# Markdown
-code --install-extension yzhang.markdown-all-in-one
-code --install-extension shd101wyy.markdown-preview-enhanced
-code --install-extension DavidAnson.vscode-markdownlint
-code --install-extension zc.design-obsidian-viewer
+## Notes
 
-# Coding
-code --install-extension ms-python.python
-code --install-extension ms-python.vscode-pylance
-code --install-extension golang.go
-code --install-extension charliermarsh.ruff
-
-# Productivity
-code --install-extension usernamehw.errorlens
-code --install-extension redhat.vscode-yaml
-code --install-extension eamodio.gitlens
-```
-
-## Usage Notes
-
-- **Continue**: Connects to local Ollama - keep Ollama running
-- **Modelfiles**: Use YAML or Shell filetype for syntax highlighting
-- **Python**: F5 to run scripts directly in terminal
-- **GitLens**: View who changed what, when
+- **Modelfiles**: Use YAML filetype for syntax highlighting
+- **Ollama**: Keep Ollama running in background
+- **Continue**: Connect to http://localhost:11434
