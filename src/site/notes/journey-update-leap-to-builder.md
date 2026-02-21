@@ -1,5 +1,7 @@
 ---
-dg-publish: true
+{
+  "dg-publish": true
+}
 ---
 # Journey Update: From Researcher to AI Builder 🚀
 **Date:** Friday, February 20, 2026
@@ -37,4 +39,4 @@ Today, I'm not just researching the industry; I'm **contributing to it**.
 ---
 **Next Destination:** 5+ merged PRs in the AI Agent ecosystem and a fully autonomous "Rural Edge" compute node.
 
-*Ref: [[OpenClaw Strategy]] | [[The Pivot]] | [[AI Toolchain Deep Dive]]*
+*Ref: [[openclaw-strategy]] | [[the-pivot]] | [[2026-02-20_Deep_Dive]]*

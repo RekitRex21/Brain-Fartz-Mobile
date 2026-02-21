@@ -1,13 +1,16 @@
 ---
-dg-publish: true
-dg-home: true
-permalink: /
+{
+  "dg-publish": true,
+  "dg-home": true,
+  "tags": ["gardenEntry"],
+  "permalink": "/"
+}
 ---
 
 # Welcome to the Fartz-Zone 🧠💨
 
 ### 🚀 Latest Journey Update
-- [[Journey Update - The Leap to Builder|The Leap to Builder (Feb 2026)]] — From AI researcher to open-source contributor.
+- [[journey-update-leap-to-builder|The Leap to Builder (Feb 2026)]] — From AI researcher to open-source contributor.
 
 Today is [[2026-02-20|2026-02-20]]. 
 
