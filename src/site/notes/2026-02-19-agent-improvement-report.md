@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # [2026-02-19] Agent Research Improvement Report
 
 Here's an updated, comprehensive report on improving your Obsidian Vault AI agent for periodic AI market research. This incorporates the exact prompt you used (with minor typo corrections for clarity: "Do a deep research for the last 30 days for new AI stocks, AI tools, Local Ollama models, insiders buying AI stocks, up and coming tech companies and going public for trading. Use your researcher skill. Create a new folder to start housing these notes. Use your writing-pro skill to write a comprehensive note. Name the folder last 30 days and add today's note to the folder.").

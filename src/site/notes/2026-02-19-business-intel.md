@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Business Intel: The 3-Box Operational Deep-Dive (2026-02-19)
 
 ## Executive Summary

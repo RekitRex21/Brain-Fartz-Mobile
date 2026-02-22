@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # 2026-02-19 AI Market Research
 
 ## Summary
