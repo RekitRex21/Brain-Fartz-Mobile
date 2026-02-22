@@ -1,7 +1,5 @@
 ---
-{
-  "dg-publish": true
-}
+dg-publish: true
 ---
 # Journey Update: From Researcher to AI Builder 🚀
 **Date:** Friday, February 20, 2026

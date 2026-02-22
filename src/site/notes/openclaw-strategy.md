@@ -1,7 +1,5 @@
 ---
-{
-  "dg-publish": true
-}
+dg-publish: true
 ---
 # OpenClaw Contribution Strategy 🦞🚀
 **Date:** Friday, February 20, 2026

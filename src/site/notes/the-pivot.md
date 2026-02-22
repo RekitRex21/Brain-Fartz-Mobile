@@ -1,7 +1,5 @@
 ---
-{
-  "dg-publish": true
-}
+dg-publish: true
 ---
 # The Pivot: AI Contributor Journey 🚀
 **Date:** Friday, February 20, 2026

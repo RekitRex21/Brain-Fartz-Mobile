@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/ai-workspace-hero-guide/"}
+dg-publish: true
+permalink: /ai-workspace-hero-guide/
 ---
 
 # 🚀 Mobile AI Workspace: Zero to Hero Guide
