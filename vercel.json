@@ -4,6 +4,7 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
+        { "source": "/", "destination": "/notes", "permanent": false },
         { "handle": "filesystem" },
         { "src": "/(.*)", "status": 404, "dest": "/404" }
       ]
