@@ -24,3 +24,21 @@ netlify/functions/search/data.json
 netlify/functions/search/index.json
 src/site/styles/theme.*.css
 src/site/styles/_theme.*.css
+
+# Credentials & Secrets - MUST NEVER COMMIT
+.env
+.env.*
+*.env
+*.token
+*.key
+*.pem
+*.crt
+*.secret
+ghp_*
+github_pat_*
+sk-*
+ghp_
+token.txt
+credentials.json
+secrets.json
+*.log
